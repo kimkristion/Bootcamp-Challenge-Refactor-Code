@@ -14,4 +14,4 @@
 
 ## Usage 
 
-![Screenshot of marketing meeting] (<Screenshot 2023-07-25 224859.png> "Screenshot")
+![Deployed Website](<Screenshot 2023-07-25 224859.png>)

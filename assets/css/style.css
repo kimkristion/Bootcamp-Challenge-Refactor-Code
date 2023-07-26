@@ -1,3 +1,4 @@
+/* Universal selector used to style all elements of html */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -100,6 +101,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* Sidebar sections now organized to share style code */
 #benefit-lead, #benefit-brand, #benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -115,6 +117,7 @@ aside {
     max-width: 150px;
 }
 
+/* Sections within the body now organized to share style */
 #search-engine-optimization, #online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -133,6 +136,7 @@ aside {
     font-size: 36px;
 }
 
+/* footer */
 footer {
     padding: 30px;
     clear: both;

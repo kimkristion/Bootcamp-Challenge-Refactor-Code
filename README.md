@@ -16,3 +16,15 @@
 
 https://kimkristion.github.io/Project-Horiseon-Refactoring/
 ![Deployed Website](<Screenshot 2023-07-25 224859.png>)
+
+## Credits
+
+- Source Code HTML
+https://github.com/coding-boot-camp/urban-octo-telegram/blob/main/Develop/index.html
+
+- Source Code CSS
+https://github.com/coding-boot-camp/urban-octo-telegram/blob/main/Develop/assets/css/style.css
+
+## License 
+
+- Please refer to the LICENSE in the repo

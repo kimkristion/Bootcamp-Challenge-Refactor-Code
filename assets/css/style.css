@@ -68,7 +68,12 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg" );
     background-size: cover;
     background-position: center;
+    
 }
+
+#background {
+    display: none;
+}*
 
 /* Positions the seo and smm Images to the left side of the container*/
 #search-engine-optimization img, #social-media-marketing img{

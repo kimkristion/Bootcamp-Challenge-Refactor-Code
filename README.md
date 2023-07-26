@@ -13,3 +13,5 @@
 - During this venture I learned how organization can leave the code looking much more compact, and allow the code to not repeat it's parameters for styling individual elements.
 
 ## Usage 
+
+![Screenshot of marketing meeting] (<Screenshot 2023-07-25 224859.png> "Screenshot")
